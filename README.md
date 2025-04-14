@@ -36,7 +36,6 @@
 
 **Definición de clases y objetos**
 
-
 Crea una clase llamada 'Persona' que tenga:
 - Atributos: nombre, edad, nacionalidad
 - Métodos: presentarse() que imprima "Hola, soy {nombre}, tengo {edad} años y soy de {nacionalidad}"
@@ -44,7 +43,6 @@ Crea dos objetos (instancias) de esta clase con datos diferentes y llama al mét
 
 
 **Métodos mágicos**
-
 
 Modifica la clase Persona del ejercicio anterior para que:
 1. Al imprimir el objeto (print) muestre "Persona: {nombre}, {edad} años"
@@ -125,3 +123,38 @@ Crea una clase 'Auto' que use composición con Motor (el motor se crea al crear 
 Crea una clase 'Estudiante' y una clase 'Curso'.
 Un estudiante puede estar en varios cursos (agregación)
 Implementa los métodos necesarios para agregar y obtener estudiantes de un curso, y cursos de un estudiante.
+
+
+## Semana 2 Git
+
+### Instalación y configuración
+
+Instala git en tu OS
+
+**Windows**
+
+```
+winget install --id Git.Git
+```
+
+**Ubuntu**
+
+```
+sudo apt install git
+```
+
+
+**Configura git**
+
+Configura tu nombre e email
+
+```
+git config --global user.email "[tu email]"
+
+git config --global user.name "[Tu nombre]"
+
+```
+
+#### Recursos
+- [Curso Git 1 hora](https://youtu.be/VdGzPZ31ts8)
+- [Curso Git extedido](https://youtu.be/3GymExBkKjE)
