@@ -5,25 +5,25 @@
 ### Programación Orientada a Objetos
 
 - [ ] Qué es POO
-  - [ ] Clases y Objetos
-  - [ ] Definición de clases
-  - [ ] Definición y creación de objetos
-  - [ ] Atributos y métodos
-  - [ ] Métodos mágicos (__init__, __str__, __repr__, etc.)
+  - [x] Clases y Objetos
+  - [x] Definición de clases
+  - [x] Definición y creación de objetos
+  - [x] Atributos y métodos
+  - [x] Métodos mágicos (__init__, __str__, __repr__, etc.)
 - [ ] 4 Pilares de POO I
-  - [ ] Abstracción
+  - [x] Abstracción
     - [ ] Atributos de instancia y de clase
     - [ ] Métodos de instancia
     - [ ] Métodos de clase y estáticos
-  - [ ] Encapsulamiento
-    - [ ] Atributos y métodos privados
-    - [ ] Propiedades @ properties
+  - [x] Encapsulamiento
+    - [x] Atributos y métodos privados
+    - [x] Propiedades @ properties
     - [ ] Dataclases
-  - [ ] Herencia
-    - [ ] Clases y métodos abstractos
-    - [ ] Herencia Simple y múltiple
-  - [ ] Polimorfismo
-  - [ ] Composición y agregación
+  - [x] Herencia
+    - [x] Clases y métodos abstractos
+    - [x] Herencia Simple y múltiple
+  - [x] Polimorfismo
+  - [x] Composición y agregación
 
 #### Recursos
 - [Curso Python 2020](https://www.youtube.com/watch?v=71S1WywB4cY&list=PLg9145ptuAigw5pV_DRznXdOsX19dorDs&index=2)
