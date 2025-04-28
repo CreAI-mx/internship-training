@@ -143,7 +143,6 @@ winget install --id Git.Git
 sudo apt install git
 ```
 
-
 **Configura git**
 
 Configura tu nombre e email
@@ -155,6 +154,48 @@ git config --global user.name "[Tu nombre]"
 
 ```
 
+### Material
+
+- [Aprende GIT ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=VdGzPZ31ts8)
+- [Using Git & GitHub in VSCode: Stage, Commit, and Push](https://www.youtube.com/watch?v=z5jZ9lrSpqk)
+
+### Ejercicios 
+
+Haz los primeros Ejercicios para prácticar git
+
+- [Learn & practice Git](https://gitexercises.fracz.com/)
+  - [ ] Commit one file
+  - [ ] Commit one file staged
+  - [ ] Chase branch
+  - [ ] Merge Conflict
+  - [ ] Save your work
+  - [ ] Change branch history
+  - [ ] Remove Ignored
+
 #### Recursos
 - [Curso Git 1 hora](https://youtu.be/VdGzPZ31ts8)
 - [Curso Git extedido](https://youtu.be/3GymExBkKjE)
+
+## Semana 3 - Intro API REST
+
+- [ ] Cómo funciona internet
+- [ ] Qué es una API
+- [ ] Qué es API REST
+  - [ ] Qué son los Método HTTP
+  - [ ] Qué son los métodos Seguros e Idempotentes
+- [ ] Construir primer API REST con Fast API
+
+** Material ** 
+- [How does the Internet work?](https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/)
+- [How Does the Internet Work](https://www.geeksforgeeks.org/how-does-the-internet-work/)
+- [Fundamentos de las aplicaciones web](https://fullstackopen.com/es/part0/fundamentos_de_las_aplicaciones_web)
+- [REST API Introduction](https://www.geeksforgeeks.org/rest-api-introduction/)
+- [What is REST?](https://restfulapi.net/what-is-an-api/)
+- [HTTP Methods](https://restfulapi.net/http-methods/)
+- [Idempotent REST API](https://restfulapi.net/idempotent-rest-apis/)
+- [REST API URI Naming Conventions and Best Practices](https://restfulapi.net/resource-naming/)
+
+**Fast API**
+- [Fast API](https://fastapi.tiangolo.com/)
+- [Fast API Curso](https://www.youtube.com/watch?v=OKUDmlvB8Hk&list=PLHftsZss8mw7pSRpCyd-TM4Mu43XdyB3R)
+
