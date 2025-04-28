@@ -157,7 +157,6 @@ git config --global user.name "[Tu nombre]"
 ### Material
 
 - [Aprende GIT ahora! curso completo GRATIS desde cero](https://www.youtube.com/watch?v=VdGzPZ31ts8)
-- [Using Git & GitHub in VSCode: Stage, Commit, and Push](https://www.youtube.com/watch?v=z5jZ9lrSpqk)
 - [Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE)
 
 
