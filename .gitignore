@@ -172,3 +172,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+*.exe
+¡Vas bien, Andrés! 🚀 Ahora, tu rama ignore-them tiene un commit pendiente que aún no se ha enviado (push) al repositorio remoto. Además, los archivos listados como "Untracked files" no están siendo rastreados por Git, lo que significa que .gitignore debería estar funcionando correctamente.
+🔍 Pasos para finalizar la tarea
+1️⃣ Verifica el contenido de .gitignore
+Confirma que las reglas necesarias están allí con:
+cat .gitignore
+
+
+Debe contener:
+*.exe
+*.o
+*.jar
+libraries/
+*.class
+
+
