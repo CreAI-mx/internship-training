@@ -196,3 +196,4 @@ Haz los primeros Ejercicios para prácticar git
 - [Fast API](https://fastapi.tiangolo.com/)
 - [Fast API Curso](https://www.youtube.com/watch?v=OKUDmlvB8Hk&list=PLHftsZss8mw7pSRpCyd-TM4Mu43XdyB3R)
 
+## Semana 4 - Construyendo una API REST con Fast API
