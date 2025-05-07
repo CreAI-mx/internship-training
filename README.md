@@ -160,7 +160,7 @@ git config --global user.name "[Tu nombre]"
 - [Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE)
 
 
-### Ejercicios 
+### Ejercicios
 
 Haz los primeros Ejercicios para prácticar git
 
@@ -173,7 +173,7 @@ Haz los primeros Ejercicios para prácticar git
   - [ ] Change branch history
   - [ ] Remove Ignored
 
-## Semana 3 - Intro API REST
+## Semana 3 y 4- Intro API REST
 
 - [ ] Cómo funciona internet
 - [ ] Qué es una API
@@ -181,8 +181,11 @@ Haz los primeros Ejercicios para prácticar git
   - [ ] Qué son los Método HTTP
   - [ ] Qué son los métodos Seguros e Idempotentes
 - [ ] Construir primer API REST con Fast API
+- [ ] Cómo consultar una API
+  - [ ] Open API desde Fast API
+  - [ ] Postman
 
-### Material 
+### Material
 - [How does the Internet work?](https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/)
 - [How Does the Internet Work](https://www.geeksforgeeks.org/how-does-the-internet-work/)
 - [Fundamentos de las aplicaciones web](https://fullstackopen.com/es/part0/fundamentos_de_las_aplicaciones_web)
@@ -196,4 +199,8 @@ Haz los primeros Ejercicios para prácticar git
 - [Fast API](https://fastapi.tiangolo.com/)
 - [Fast API Curso](https://www.youtube.com/watch?v=OKUDmlvB8Hk&list=PLHftsZss8mw7pSRpCyd-TM4Mu43XdyB3R)
 
-## Semana 4 - Construyendo una API REST con Fast API
+**Clientes API**
+- [Domina las Partes del Request a una API](https://www.youtube.com/watch?v=ANP4s02Lkhw)
+- [Cómo usar Postman para Testear APIs](https://www.youtube.com/watch?v=AtRBTki2oeY)
+
+## Semana 5 - Construyendo una API REST con Fast API
