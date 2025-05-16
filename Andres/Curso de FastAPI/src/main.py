@@ -5,6 +5,7 @@ from typing import Optional, List
 from src.routers.movie_router import movie_router
 import datetime
 
+
 app = FastAPI()
 
 
