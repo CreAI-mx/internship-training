@@ -26,9 +26,11 @@ def get_movie(id: int = Path(gt = 0)) -> Movie | dict:
     return JSONResponse(content= {}, status_code= 404)
 
 @movie_router.get("by_category", tags=["Movies"])
-def get_movie_by_category(category: str = Query(min_length = 5, max_length = 20)) -> Movie | dict:
+def get_movie_by_category(
+        category: str = Query(min_length = 5, max_length = 20),
+        year: int = Query(gt=1900, lt=2100)) -> Movie | dict:
     for movie in movies:
-        if movie.category == category:
+        if movie.category == category and year == movie.year:
             return JSONResponse(content= movie.model_dump(), status_code=200)
     return JSONResponse(content= {}, status_code= 404)	
 

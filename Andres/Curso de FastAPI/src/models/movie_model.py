@@ -4,15 +4,40 @@ from pydantic import BaseModel, Field
 
 
 class MovieCreate(BaseModel):
+    id: int
     title: str
+    overview: str
     year: int
+    rating: float
+    category: str
+
 
 
 class Movie(BaseModel):
     id: int
     title: str
     overview: str
-    yearr: int
+    year: int
+    rating: float
+    category: str
+
+
+
+class Movie(BaseModel):
+    id: int
+    title: str
+    overview: str
+    year: int
+    rating: float
+    category: str
+
+
+
+class Movie(BaseModel):
+    id: int
+    title: str
+    overview: str
+    year: int
     rating: float
     category: str
 
